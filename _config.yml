@@ -1,3 +1,8 @@
 theme: jekyll-theme-hacker
 title: Tom Ramsperger | Programmer & Game Designer
 description: Portfolio showcasing my latest projects
+
+# Social links
+social_links:
+  github: Tedesco22
+  linkedin: your-linkedin-username
